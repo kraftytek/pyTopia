@@ -1,2 +1,2 @@
 # pyTopia
- a python eccosystem 
+ a python ecosystem 
